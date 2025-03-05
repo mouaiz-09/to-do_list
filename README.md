@@ -21,5 +21,5 @@ This project is a **To-Do List** application built with **PHP** and **MySQL**. I
 - **PHP** – Server-side scripting language to handle backend logic.
 - **MySQL** – Database management system to store tasks.
 - **HTML/CSS** – Frontend design and styling.
-- **JavaScript** – For interactive and dynamic features.
+
 
